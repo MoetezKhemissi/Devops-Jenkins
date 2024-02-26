@@ -65,7 +65,6 @@ volumes:
 
 The project includes monitoring setups with Grafana and Prometheus, configured on the server. These tools provide insights into the application's performance and health, enabling data visualization and alerting based on metrics collected from the application and infrastructure.
 
-*Example Grafana dashboard visualizing application metrics.*
 
 ## Conclusion
 
